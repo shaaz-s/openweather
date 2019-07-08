@@ -9,7 +9,7 @@ https://github.com/shaaz-s/openweather.git
 
 To run the selenium cucumber tests, run the java file OpenWeatherRunner.java as Junit test
 
-These tests will run the feature file for folowing scenarios-
+These tests will run the feature file for following scenarios-
 
 
 1.  Verifies that all important information is there, e.g.  labels etc. 
