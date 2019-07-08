@@ -36,3 +36,10 @@ These tests will run the feature file for the following scenarios-
 ·Searches for the weather
 
 ·Verifies that website successfully returns weather details for the city.
+
+
+In case I had more time,I would have added a few more detailed checks on the homepage of the website. 
+
+I would also add this to the Jenkins execution so as to run this periodically for regression.
+
+Would like to add some reporting tool so that the results are detailed with logs
